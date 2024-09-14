@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="322"/>
+    <region id="Feats">
+        <node id="root">
+            <children>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="Feat_Spellfire"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Passive_Spellfire;Passive_Spellfire_Dummy"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,1,1,FeatASI)"/>
+                    <attribute id="UUID" type="guid" value="fff9cdb8-2b2a-4691-a2bf-0139bebec3ff"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

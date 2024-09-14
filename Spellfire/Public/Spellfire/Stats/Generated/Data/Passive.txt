@@ -1,0 +1,18 @@
+new entry "Passive_Spellfire"
+type "PassiveData"
+data "DisplayName" "h92345349bd1g891654e6786746523342cdd8;1"
+data "Description" "h98ds7fn8234529bd1g891654ef41bc42cdd8;1"
+data "Icon" "spellfire"
+data "Properties" "IsHidden"
+data "Boosts" "UnlockSpell(Projectile_Spellfire_Blast);UnlockSpell(Target_Smite_Spellfire_Container);UnlockSpell(Shout_Spellfire_Fly);UnlockSpell(Target_SpellfireHeal);UnlockSpell(Shout_CreateSpellfireCharges);UnlockSpell(Shout_CreateSpellSlot_From_Spellfire);UnlockInterrupt(Interrupt_Counterspell_Spellfire);UnlockInterrupt(Interrupt_Spellfire_Absorb_1);UnlockInterrupt(Interrupt_Spellfire_Absorb_2);UnlockInterrupt(Interrupt_Spellfire_Absorb_3);UnlockInterrupt(Interrupt_Spellfire_Absorb_4);UnlockInterrupt(Interrupt_Spellfire_Absorb_5)"
+
+new entry "Passive_Spellfire_Dummy"
+type "PassiveData"
+data "DisplayName" "h92345349bd1g891654e6786746523342cdd8;1"
+data "Description" "h98ds7fn8234529bd1g891654ef41bc42cdd8;1"
+data "Icon" "spellfire"
+data "Properties" "Highlighted"
+data "StatsFunctors" ""
+data "ToggleOffFunctors" ""
+data "ToggleOnFunctors" ""
+
