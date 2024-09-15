@@ -51,4 +51,10 @@
 	<content contentuid="h756434dfg5466c416c8764254658ebc89789" version="1">Create Spellfire Charge</content>
 	<content contentuid="h72354456g4235g8af0g4456218999bc89759" version="1">You can create a spellfire charge once per long rest, absorbing a portion of your own magical power instead of spells targeting you. </content>
 
+	<content contentuid="h0632534rfg34546hfgsdf2b6577312454301e" version="1">Crown of Fire</content>
+	<content contentuid="h1632534rfg34546hfgsdf2b6577312454301e" version="1">Anti-Magic Field</content>
+	<content contentuid="h2632534rfg34546hfgsdf2b6577312454301e" version="1">No magic can be used while close to the source of this field. </content>
+	<content contentuid="h063253er346f432547597890243212454301e" version="1">The wielder can summon the crown of fire to nullify any magic in an area except from other spellfier wielders. </content>
+	<content contentuid="h163253er346f432547597890243212454301e" version="1">The wielder can nullify any magic in an area except from other spellfier wielders. </content>
+
 </contentList>

@@ -67,3 +67,67 @@ using "SPELLFIRECHARGES_1"
 data "DescriptionParams" "5"
 data "Boosts" "ActionResource(SpellfireCharges,5,0)"
 data "OnApplyFunctors" "IF(HasActionResource('SpellfireCharges', 1, 0, false, false, context.Target) or HasActionResource('SpellfireCharges', 2, 0, false, false, context.Target) or HasActionResource('SpellfireCharges', 3, 0, false, false, context.Target) or HasActionResource('SpellfireCharges', 4, 0, false, false, context.Target) or HasActionResource('SpellfireCharges', 5, 0, false, false, context.Target)):ApplyStatus(SPELLFIRE_EXPLOSION,100,1)"
+
+
+
+
+new entry "SPELLFIRE_CROWN_ANTIMAGIC_AURA"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "h0632534rfg34546hfgsdf2b6577312454301e;1"
+data "Description" "h163253er346f432547597890243212454301e;1"
+data "Icon" "spellfire_crown_of_fire_control"
+data "StackId" "SPELLFIRE_CROWN_ANTIMAGIC_AURA"
+data "AuraRadius" "3"
+data "AuraStatuses" "TARGET:IF((Character()) and not (Tagged('SPELLFIRE_WIELDER') or HasPassive('Passive_Spellfire'))):ApplyStatus(SPELLFIRE_CROWN_ANTIMAGIC)"
+data "StatusPropertyFlags" "IgnoreResting"
+data "ApplyEffect" "8af705b5-4179-448e-abc0-2e1b50bf3a52"
+data "StatusEffect" "3066e2c2-0c4d-4ea7-8801-441c4a6b0855"
+
+new entry "SPELLFIRE_CROWN_ANTIMAGIC_AURA_GLOWINGEYES_EFFECT"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "h0632534rfg34546hfgsdf2b6577312454301e;1"
+data "Description" "h163253er346f432547597890243212454301e;1"
+data "StatusPropertyFlags" "IgnoreResting;DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+data "Icon" "spellfire_crown_of_fire_control"
+data "StackId" "SPELLFIRE_CROWN_ANTIMAGIC_AURA_GLOWINGEYES_EFFECT"
+data "StatusEffect" "VFX_Spells_Prepare_Bard_Generic_EyeFX_Overlay_01:Dummy_EyeFX_01:;VFX_Spells_Prepare_Bard_Generic_EyeFX_Overlay_02:Dummy_EyeFX_02:;"
+
+new entry "SPELLFIRE_CROWN_ANTIMAGIC_AURA_BURNING_EFFECT"
+type "StatusData"
+data "StatusType" "BOOST"
+using "SPELLFIRE_CROWN_ANTIMAGIC_AURA_GLOWINGEYES_EFFECT"
+data "StackId" "SPELLFIRE_CROWN_ANTIMAGIC_AURA_BURNING_EFFECT"
+data "StatusEffect" "9055845d-c778-44ba-a671-b0a112bacf61"
+
+new entry "SPELLFIRE_CROWN_ANTIMAGIC_AURA_BLESSCROWN_EFFECT"
+type "StatusData"
+data "StatusType" "BOOST"
+using "SPELLFIRE_CROWN_ANTIMAGIC_AURA_GLOWINGEYES_EFFECT"
+data "StackId" "SPELLFIRE_CROWN_ANTIMAGIC_AURA_BLESSCROWN_EFFECT"
+data "StatusEffect" "61fe31f9-ae4b-4926-a033-e56ea67c7d92"
+
+new entry "SPELLFIRE_CROWN_ANTIMAGIC_AURA_SUSSUR_EFFECT"
+type "StatusData"
+data "StatusType" "BOOST"
+using "SPELLFIRE_CROWN_ANTIMAGIC_AURA_GLOWINGEYES_EFFECT"
+data "StackId" "SPELLFIRE_CROWN_ANTIMAGIC_AURA_SUSSUR_EFFECT"
+data "StatusEffect" "362f2080-b927-4846-8aec-66752dbafd07"
+
+
+
+
+new entry "SPELLFIRE_CROWN_ANTIMAGIC"
+type "StatusData"
+data "StatusType" "BOOST"
+using "UND_SUSSURTREEANTIMAGIC"
+data "DisplayName" "h1632534rfg34546hfgsdf2b6577312454301e;1"
+data "Description" "h2632534rfg34546hfgsdf2b6577312454301e;1"
+data "Icon" "statIcons_SussurBloom"
+data "FormatColor" "Purple"
+data "StackId" "UND_SUSSURTREEANTIMAGIC"
+data "Boosts" "BlockSpellCast();Tag(UND_SUSSURTREEANTIMAGIC)"
+data "StatusPropertyFlags" "DisableCombatlog"
+data "StatusEffect" "6bdb6241-83f9-4a31-a6e2-6946c6c65222"
+
