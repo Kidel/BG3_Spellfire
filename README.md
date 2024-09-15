@@ -1,7 +1,7 @@
 # BG3 Spellfire Wielder + Chosen of Mystra
 Spellfire Wielder + Chosen of Mystra mod for Baldur's Gate 3
 
-![Banner](https://staticdelivery.nexusmods.com/mods/3474/images/12192/12192-1726399818-1914651412.png)
+![Banner](https://staticdelivery.nexusmods.com/mods/3474/images/12192/12192-1726418296-474368947.png)
 
 ### Features
 
