@@ -1,9 +1,11 @@
-# BG3 Spellfire
-Spellfire mod for Baldur's Gate 3
+# BG3 Spellfire Wielder + Chosen of Mystra
+Spellfire Wielder + Chosen of Mystra mod for Baldur's Gate 3
 
 ![Banner](https://staticdelivery.nexusmods.com/mods/3474/images/12192/12192-1726399818-1914651412.png)
 
-### Skills
+### Features
+
+#### Spellfire Wielder
 
 You have gained mastery over spellfire, a rare and potent gift from Mystra that makes you able to wield raw magical energy.  You can obtain Spellfire Charges by absorbing magic from your opponents or yourself.  Whether healing allies, devastating foes, or drawing power from other spells, your control over spellfire makes you a formidable force on the battlefield. 
 
@@ -17,3 +19,11 @@ You have gained mastery over spellfire, a rare and potent gift from Mystra that 
 - Spellfire Conversion: You can convert a certain number of spellfire charges to one Spell Slot of the corresponding level.
 - Create Spellfire Charge: You can create a spellfire charge once per long rest, absorbing a portion of your own magical power instead of spells targeting you.
 - Crown of Fire: The wielder can summon the crown of fire to nullify any magic in an area except from other spellfier wielders.
+
+#### Chosen of Mystra
+
+The Chosen of Mystra are mortals who have been blessed by the Weave.  Due to this blessing they gained access to unprecedented magical power.  Mystra's Chosen were all concerned with fighting evil and imbalances in the Weave. As a chosen, you're immune to poison and diseases, you gain resistance to all elements, you can teleport and use gifts such as the Mantle and Silver Fire. 
+
+- Misty Step: You can teleport for free once per Short Rest.
+- Mantle: A powerful protective spell that gives increased AC, feather fall, protection from magic missiles, and immunity to repulsion.
+- Silver Fire: Unleash a beam of whitish magical flame known as silver fire.
