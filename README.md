@@ -16,3 +16,4 @@ You have gained mastery over spellfire, a rare and potent gift from Mystra that 
 - Counterspellfire: As a reaction, you can expend a spellfire charge to attempt to counter another spell without absorbing it.
 - Spellfire Conversion: You can convert a certain number of spellfire charges to one Spell Slot of the corresponding level.
 - Create Spellfire Charge: You can create a spellfire charge once per long rest, absorbing a portion of your own magical power instead of spells targeting you.
+- Crown of Fire: The wielder can summon the crown of fire to nullify any magic in an area except from other spellfier wielders.
