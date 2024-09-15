@@ -5,11 +5,18 @@
         <node id="root">
             <children>
                 <node id="FeatDescription">
-                    <attribute id="Description" type="TranslatedString" handle="h98ds7fn89748329bd1g8914gef41bc42cdd7" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h98726778g88bag4272g98a5g73e9dcce442e" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="h98ds7fn89748329bd1g8914gef41bc42cdd7" version="1"/>
                     <attribute id="ExactMatch" type="FixedString" value="Feat_Spellfire"/>
                     <attribute id="FeatId" type="guid" value="fff9cdb8-2b2a-4691-a2bf-0139bebec3ff"/>
                     <attribute id="UUID" type="guid" value="ff08f549-3346-40bc-ad30-5aa4b5c918ff"/>
+                </node>
+                <node id="FeatDescription">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h063253dsmfjkc9590939090qwu09e0qwe349" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="h163253dsmfjkc9590939090qwu09e0qwe349" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Feat_MystrasChosen"/>
+                    <attribute id="FeatId" type="guid" value="fffacdb8-2b2a-4691-a2bf-0139bebec3ff"/>
+                    <attribute id="UUID" type="guid" value="ff0af549-3346-40bc-ad30-5aa4b5c918ff"/>
                 </node>
             </children>
         </node>

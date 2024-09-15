@@ -114,28 +114,28 @@
                     <attribute id="V2" type="float" value="0.03125"/> Bottom
                 </node>				
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 14
+                    <attribute id="MapKey" type="FixedString" value="mystrachosen"/> 14
                     <attribute id="U1" type="float" value="0.40625"/> Left
                     <attribute id="U2" type="float" value="0.4375"/> Right
                     <attribute id="V1" type="float" value="0.0"/> Top
                     <attribute id="V2" type="float" value="0.03125"/> Bottom
                 </node>				
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 15
+                    <attribute id="MapKey" type="FixedString" value="mystra_mistystep"/> 15
                     <attribute id="U1" type="float" value="0.4375"/> Left
                     <attribute id="U2" type="float" value="0.46875"/> Right
                     <attribute id="V1" type="float" value="0.0"/> Top
                     <attribute id="V2" type="float" value="0.03125"/> Bottom
                 </node>	
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 16
+                    <attribute id="MapKey" type="FixedString" value="mystra_mantle"/> 16
                     <attribute id="U1" type="float" value="0.46875"/> Left
                     <attribute id="U2" type="float" value="0.5"/> Right
                     <attribute id="V1" type="float" value="0.0"/> Top
                     <attribute id="V2" type="float" value="0.03125"/> Bottom
                 </node>				
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 17
+                    <attribute id="MapKey" type="FixedString" value="mystra_silverfire"/> 17
                     <attribute id="U1" type="float" value="0.5"/> Left
                     <attribute id="U2" type="float" value="0.53125"/> Right
                     <attribute id="V1" type="float" value="0.0"/> Top

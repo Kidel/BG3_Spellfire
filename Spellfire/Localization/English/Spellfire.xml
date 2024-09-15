@@ -9,8 +9,6 @@
 	<content contentuid="h92345349bd1g891654e6786746523342cdd8" version="1">Spellfire</content>
 	<content contentuid="h98ds7fn8234529bd1g891654ef41bc42cdd8" version="1">You have gained mastery over spellfire, a rare and potent gift from Mystra that makes you able to wield raw magical energy.  You can obtain Spellfire Charges by absorbing magic from your opponents or yourself.  Whether healing allies, devastating foes, or drawing power from other spells, your control over spellfire makes you a formidable force on the battlefield. </content>
 
-
-
 	<content contentuid="h95367568g88bag4272g98a5g73e9dcce442e" version="1">Spellfire Charges</content>
 	<content contentuid="h35437fn89748329bd1g8914gef41bc42cdd7" version="1">A spellfire charge allows to unleash spellfire energy attacks and use spellfire abilities.  If you absorb over 5 charges, you'll detonate a spellfire discharge, damaging anything in the area. </content>
 	<content contentuid="h234255647867ag4a57gb9degb99532438188" version="1">Out Spellfire Charges</content>
@@ -57,4 +55,14 @@
 	<content contentuid="h063253er346f432547597890243212454301e" version="1">The wielder can summon the crown of fire to nullify any magic in an area except from other spellfier wielders. </content>
 	<content contentuid="h163253er346f432547597890243212454301e" version="1">The wielder can nullify any magic in an area except from other spellfier wielders. </content>
 
+	<content contentuid="h063253dsmfjkc9590939090qwu09e0qwe349" version="1">Chosen of Mystra</content>
+	<content contentuid="h163253dsmfjkc9590939090qwu09e0qwe349" version="1">The Chosen of Mystra are mortals who have been blessed by the Weave.  Due to this blessing they gained access to unprecedented magical power.  Mystra's Chosen were all concerned with fighting evil and imbalances in the Weave. </content>
+	<content contentuid="h263253dsmfjkc9590939090qwu09e0qwe349" version="1">You have have been blessed by Mystra.  Due to this blessing you gained access to unprecedented magical power.  As a chosen, you're immune to poison and diseases, you gain resistance to all elements, you can teleport and use gifts such as the Mantle and Silver Fire. </content>
+
+	<content contentuid="h4444d5caga34567rfgdf453gce6f2bcdc01e" version="1">Silver Fire</content>
+	<content contentuid="h5555d5caga34567rfgdf453gce6f2bcdc01e" version="1">As an action, you can expend one or more spellfire charges to unleash a spellfire blast at a target within range. The blast requires a ranged spell attack, and on a hit, it deals spellfire damage per charge expended (max 3) and the number of blasts increases at higher levels.  Spellfire damage counts as half Force and half Fire damage. </content>
+	
+	<content contentuid="h6666d5caga34567rfgdf453gce6f2bcdc01e" version="1">Mantle</content>
+	<content contentuid="h7777d5caga34567rfgdf453gce6f2bcdc01e" version="1">A powerful protective spell that gives increased AC, feather fall, protection from magic missiles, and immunity to repulsion. </content>
+	
 </contentList>
